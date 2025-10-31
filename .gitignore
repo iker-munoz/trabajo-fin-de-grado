@@ -1,0 +1,6 @@
+# Server
+# Folders
+/target
+
+# Files
+Cargo.lock
